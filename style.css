@@ -1268,7 +1268,7 @@ h1 {
 /* project end */
 /* contact start */
 .contact {
-  min-height: 90vh;
+  min-height: 800px;
   background-color: var(--saction-background-alt);
   position: relative;
   z-index: 1;
